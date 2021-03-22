@@ -62,10 +62,10 @@ Give a ⭐️ if this project helped you!
 
 ## ☑️ TODO
 
--[ ] Dark Theme Support
--[ ] Wave Movement
--[ ] Tornado Movement
--[ ] Background Music
+- [ ] Dark Theme Support
+- [ ] Wave Movement
+- [ ] Tornado Movement
+- [ ] Background Music
 
 ## 📝 License
 
